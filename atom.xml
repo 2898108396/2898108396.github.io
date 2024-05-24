@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://2898108396.github.io</id>
+    <title>美食百科</title>
+    <updated>2024-05-24T11:04:32.273Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://2898108396.github.io"/>
+    <link rel="self" href="https://2898108396.github.io/atom.xml"/>
+    <subtitle>提供各种菜肴的制作方法，包括传统的家常菜、地方特色美食以及国际美食。</subtitle>
+    <logo>https://2898108396.github.io/images/avatar.png</logo>
+    <icon>https://2898108396.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 美食百科</rights>
+    <entry>
+        <title type="html"><![CDATA[罗宋汤]]></title>
+        <id>https://2898108396.github.io/post/luo-song-tang/</id>
+        <link href="https://2898108396.github.io/post/luo-song-tang/">
+        </link>
+        <updated>2024-05-03T09:10:56.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>特别好喝</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汉堡包]]></title>
+        <id>https://2898108396.github.io/post/han-bao-bao/</id>
+        <link href="https://2898108396.github.io/post/han-bao-bao/">
+        </link>
+        <updated>2024-05-01T10:28:22.000Z</updated>
+        <content type="html"><![CDATA[<p>我爱吃汉堡包<img src="https://2898108396.github.io/post-images/1714559318279.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烤鸡翅]]></title>
+        <id>https://2898108396.github.io/post/kao-ji-chi/</id>
+        <link href="https://2898108396.github.io/post/kao-ji-chi/">
+        </link>
+        <updated>2024-05-01T10:23:38.000Z</updated>
+        <content type="html"><![CDATA[<p>我喜欢吃烤鸡翅<img src="https://2898108396.github.io/post-images/1714559032094.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
